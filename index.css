@@ -1,0 +1,20 @@
+/* content styles */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+
+    font-family: "Roboto", sans-serif;
+}
+
+/* fonts */
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    src: url(assets/fonts/Roboto-Regular.ttf);
+
+}
